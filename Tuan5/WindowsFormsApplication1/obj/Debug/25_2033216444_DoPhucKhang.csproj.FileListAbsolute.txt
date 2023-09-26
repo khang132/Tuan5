@@ -5,3 +5,9 @@ D:\congnghe.net\Net_DoPhucKhang-main\WindowsFormsApplication1\obj\Debug\25_20332
 D:\congnghe.net\Net_DoPhucKhang-main\WindowsFormsApplication1\obj\Debug\_25_2033216444_DoPhucKhang.Bai01.resources
 D:\congnghe.net\Net_DoPhucKhang-main\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
 D:\congnghe.net\Net_DoPhucKhang-main\WindowsFormsApplication1\obj\Debug\25_2033216444_DoPhucKhang.csproj.GenerateResource.Cache
+D:\congnghe.net\25_DoPhucKhang-main\Tuan5\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\congnghe.net\25_DoPhucKhang-main\Tuan5\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\congnghe.net\25_DoPhucKhang-main\Tuan5\WindowsFormsApplication1\obj\Debug\25_2033216444_DoPhucKhang.csprojResolveAssemblyReference.cache
+D:\congnghe.net\25_DoPhucKhang-main\Tuan5\WindowsFormsApplication1\obj\Debug\_25_2033216444_DoPhucKhang.Bai01.resources
+D:\congnghe.net\25_DoPhucKhang-main\Tuan5\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\congnghe.net\25_DoPhucKhang-main\Tuan5\WindowsFormsApplication1\obj\Debug\25_2033216444_DoPhucKhang.csproj.GenerateResource.Cache
