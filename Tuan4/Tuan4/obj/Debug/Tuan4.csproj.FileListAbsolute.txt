@@ -1,0 +1,6 @@
+E:\LuuDuLieuSinhVien\2033216444_dophuckhang\Tuan4\Tuan4\bin\Debug\Tuan4.exe.config
+E:\LuuDuLieuSinhVien\2033216444_dophuckhang\Tuan4\Tuan4\bin\Debug\Tuan4.exe
+E:\LuuDuLieuSinhVien\2033216444_dophuckhang\Tuan4\Tuan4\bin\Debug\Tuan4.pdb
+E:\LuuDuLieuSinhVien\2033216444_dophuckhang\Tuan4\Tuan4\obj\Debug\Tuan4.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\2033216444_dophuckhang\Tuan4\Tuan4\obj\Debug\Tuan4.exe
+E:\LuuDuLieuSinhVien\2033216444_dophuckhang\Tuan4\Tuan4\obj\Debug\Tuan4.pdb
